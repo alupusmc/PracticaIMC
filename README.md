@@ -1,5 +1,10 @@
 # imc
 
+Axel Meinguer A01653448
+Rafael Fierro
+
+EVIDENCIA EN: https://youtu.be/hZldCQmGrPw
+
 A new Flutter application.
 
 ## Getting Started
